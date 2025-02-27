@@ -20,10 +20,10 @@
              &kp LCTRL       &kp A      &kp S      &kp D      &kp F      &kp G      &kp H      &kp J      &kp K      &kp L     &kp P      &kp P       &kp ENTER
         //├───────────────┴──┬───────┴──┬───────┴──┬───────┴──┬───────┴──┬───────┴──┬───────┴──┬───────┴──┬───────┴──┬───────┴──┬───────┴──┬───────┴───────┬──────────┤
         //│  SHIFT           │  Z       │  X       │  C       │  V       │  B       │  N       │  M       │ , <      │ . >      │ / ?      │ SHIFT         │ CTRL     │
-             &kp TAB            &kp Z      &kp X      &kp C      &kp V      &kp B      &kp N      &kp M     &kp I      &kp O      &kp P      &kp P           &kp RCTRL 
+             &kp LSHIFT         &kp Z      &kp X      &kp C      &kp V      &kp B      &kp N      &kp M     &kp COMMA  &kp DOT    &kp FSLH   &kp RSHIFT      &kp RCTRL 
         //╰────────────┬─────┴────┬─────┴───────┬──┴───────┬──┴──────────┴────────┬─┴──────────┴──────────┴────┬─────┴────┬─────┴───────┬──┴───────┬───────┴──────────╯
         //             │          │             │          │                      │                            │          │             │          │
-                         &kp LGUI   &kp LALT       &mo 1          &kp SPACE                  &kp SPACE            &mo 2      &kp RALT     &kp RGUI
+                         &kp LGUI   &kp LALT       &mo 1          &kp SPACE               &studio_unlock           &mo 2      &kp RALT    &kp RGUI
         //             ╰──────────┴─────────────┴──────────┴──────────────────────┴────────────────────────────┴──────────┴─────────────┴──────────╯
             >;
         };
