@@ -17,4 +17,7 @@ include:
   - board: kasasagi
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
-    artifact-name: kasasagi_studio
+    artifact-name: kasasagi_zmk_studio
+  - board: kasasagi
+    shield: settings_reset
+    artifact-name: kasasagi_settings_reset
